@@ -1,0 +1,23 @@
+{
+  "name": "intern-valsad",
+  "version": "1.0.0",
+  "description": "doing jwt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshshah18/valsad_internship.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshshah18/valsad_internship/issues"
+  },
+  "homepage": "https://github.com/rakeshshah18/valsad_internship#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
